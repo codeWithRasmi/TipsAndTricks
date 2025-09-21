@@ -1,7 +1,7 @@
 ## Run Kubernetes on Windows-WSL2
 ### Prerequisites
 
-1. Enable WSL2 (Follow ).
+1. Enable WSL2 (Follow the steps as mentioned in the https://github.com/codeWithRasmi/TipsAndTricks/blob/main/WSL2.md)
 
 
 2. Install a Linux distro (Skip this step if already done).
